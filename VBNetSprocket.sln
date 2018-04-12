@@ -3,7 +3,7 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio 15
 VisualStudioVersion = 15.0.27428.2037
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{F184B08F-C81C-45F6-A57F-5ABD9991F28F}") = "VBNetSprocket1", "VBNetSprocket1\VBNetSprocket1.vbproj", "{966A20EB-E6E0-436A-A3C8-25040745494B}"
+Project("{F184B08F-C81C-45F6-A57F-5ABD9991F28F}") = "VBNetSprocket", "VBNetSprocket\VBNetSprocket.vbproj", "{966A20EB-E6E0-436A-A3C8-25040745494B}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
